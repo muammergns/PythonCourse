@@ -1,3 +1,5 @@
+# Python Kursu Notları
+
 pip --version
 
 py -m pip install pip --upgrade
